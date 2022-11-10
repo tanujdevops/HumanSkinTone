@@ -1,0 +1,8 @@
+Django==4.1.1
+django_heroku==0.3.1
+imutils==0.5.4
+matplotlib==3.3.2
+numpy==1.19.2
+opencv_python==4.6.0.66
+Pillow==9.3.0
+scikit_learn==1.1.3
